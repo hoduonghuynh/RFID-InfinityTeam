@@ -1,0 +1,45 @@
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe.config
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.csprojResolveAssemblyReference.cache
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form1.resources
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Properties.Resources.resources
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.csproj.GenerateResource.Cache
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.exe
+F:\Desktop\Ussop\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe.config
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.exe
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.csprojResolveAssemblyReference.cache
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form1.resources
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Properties.Resources.resources
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.csproj.GenerateResource.Cache
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form2.resources
+F:\Desktop\Zoro\DoAn2\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form3.resources
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe.config
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.exe
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.csprojResolveAssemblyReference.cache
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form1.resources
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form2.resources
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form3.resources
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Properties.Resources.resources
+F:\Desktop\Zoro\RFID cuoi ky\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.csproj.GenerateResource.Cache
+F:\Desktop\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe.config
+F:\Desktop\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.exe
+F:\Desktop\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe.config
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.exe
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.exe
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\bin\Debug\Ketnoimaytinh.pdb
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.csprojResolveAssemblyReference.cache
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form1.resources
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form2.resources
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Form3.resources
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.Properties.Resources.resources
+F:\Desktop\Hackathon\Ketnoimaytinh\Ketnoimaytinh\obj\Debug\Ketnoimaytinh.csproj.GenerateResource.Cache
